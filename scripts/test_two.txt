@@ -1,0 +1,2 @@
+file 'C:/Users/Ankit Sawant/Downloads/text-to-audio/text-to-audio/output/dub_Dr. Priyanta - ACV - Hook - Sugar Damage Reel_English_FIXED_FINAL_en/segments/seg_002_2600_3800_broll.mp4'
+file 'C:/Users/Ankit Sawant/Downloads/text-to-audio/text-to-audio/output/dub_Dr. Priyanta - ACV - Hook - Sugar Damage Reel_English_FIXED_FINAL_en/segments/seg_004_575500960f992f02_synced.mp4'
